@@ -35,7 +35,7 @@ publish {
     userOrg = 'kkmike999'      //bintray注册的用户名
     groupId = 'net.kkmike.library'         //compile引用时的第1部分groupId
     artifactId = 'kk_library'     //compile引用时的第2部分项目名
-    publishVersion = '1.1'    //compile引用时的第3部分版本号
+    publishVersion = '1.3'    //compile引用时的第3部分版本号
     desc = 'This is a library'
     website = 'https://github.com/kkmike999/kk_library'
 }
